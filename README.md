@@ -2,7 +2,6 @@
   Welcome to Syed Wajeeh's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things;Masters+in+Information+Technology;Full+Stack+Web+and+app+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
@@ -16,6 +15,7 @@
 - 💬 Talk to me about Anime & Astronomy.
 - 👯 We can connect to play some games of Chess.
 - 💻 My CoderByte Profile <a href="https://coderbyte.com/profile/wajeehhasan" target="_blank"> ➤ </a>
+- 💻 My LeetCode Profile <a href="https://leetcode.com/user8439It/" target="_blank"> ➤ </a>
 - ⚡ Facts that Fascinate me: Almost all the stars we see are beyond the cosmological horizon (Beyond this point no information can be retrieved), and what we see is the light emitted by them millions of years ago.
 - ⚡ Facts that Fascinate me: Time & Space exchange their places as we come close to the event horizon of Blackhole.
 - ⚡ Facts that Fascinate me: There's nothing inside of a black hole as things can not fall inside they just stop in their track wrt time.
