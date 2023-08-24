@@ -124,6 +124,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!---    <a href="https://linkedin.com/in/srafayms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srafayms" height="30" width="40" /></a>           -->
+<a href="https://linkedin.com/in/wajeehhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srafayms" height="30" width="40" /></a>     
 <a href="https://stackoverflow.com/users/10596494/wajeeh-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5846238" height="30" width="40" /></a>
 </p>
