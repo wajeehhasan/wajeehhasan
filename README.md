@@ -15,7 +15,7 @@
 - 💬 Talk to me about Anime & Astronomy.
 - 👯 We can connect to play some games of Chess.
 - 💻 My CoderByte Profile <a href="https://coderbyte.com/profile/wajeehhasan" target="_blank"> ➤ </a>
-- 💻 My LeetCode Profile <a href="https://leetcode.com/user8439It/" target="_blank"> ➤ </a>
+- 💻 My LeetCode Profile <a href="https://leetcode.com/wajeehhasan/" target="_blank"> ➤ </a>
 - ⚡ Facts that Fascinate me: Almost all the stars we see are beyond the cosmological horizon (Beyond this point no information can be retrieved), and what we see is the light emitted by them millions of years ago.
 - ⚡ Facts that Fascinate me: Time & Space exchange their places as we come close to the event horizon of Blackhole.
 - ⚡ Facts that Fascinate me: There's nothing inside of a black hole as things can not fall inside they just stop in their track wrt time.
