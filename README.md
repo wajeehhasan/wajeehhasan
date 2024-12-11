@@ -113,7 +113,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
+<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
